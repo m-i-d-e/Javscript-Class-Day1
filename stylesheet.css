@@ -1,5 +1,6 @@
-body{
-    background-color: #000;
-    color: white;
-}
+.body{
+    text-align: center;
+    border: 3px solid green;
+    width: 83.7rem;
 
+}
